@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Alex Speller", "Matijs van Zuijlen"]
   s.email       = ["matijs@matijs.net"]
-  s.homepage    = "http://github.com/mvz/non-digest-assets"
+  s.homepage    = "http://github.com/maneyko/non-digest-assets"
   s.summary     = "Fix the Rails 4 and 5 asset pipeline to generate non-digest along with digest assets"
   s.description = <<-DESCRIPTION
     Rails 4 and 5 provide no option to generate both digest and non-digest
